@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GeNetIt"]
+	path = GeNetIt
+	url = https://github.com/jeffreyevans/genetit
+	shallow = true
+	registered = true
+[submodule "rfUtilities"]
+	path = rfUtilities
+	url = https://github.com/jeffreyevans/rfutilities
+	shallow = true
+	registered = true
+[submodule "spatialEco"]
+	path = spatialEco
+	url = https://github.com/jeffreyevans/spatialeco
+	shallow = true
+	registered = true

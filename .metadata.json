@@ -1,0 +1,14 @@
+[
+  {
+    "package": "GeNetIt",
+    "oncran": true
+  },
+  {
+    "package": "rfUtilities",
+    "oncran": true
+  },
+  {
+    "package": "spatialEco",
+    "oncran": true
+  }
+]
