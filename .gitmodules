@@ -18,3 +18,8 @@
 	url = https://github.com/jeffreyevans/spatialeco
 	shallow = true
 	registered = true
+[submodule "yaImpute"]
+	path = yaImpute
+	url = https://github.com/jeffreyevans/yaimpute
+	shallow = true
+	registered = true
