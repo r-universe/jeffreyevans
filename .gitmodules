@@ -5,9 +5,6 @@
 [submodule "GeNetIt"]
 	path = GeNetIt
 	url = https://github.com/jeffreyevans/genetit
-[submodule "rfUtilities"]
-	path = rfUtilities
-	url = https://github.com/jeffreyevans/rfutilities
 [submodule "spatialEco"]
 	path = spatialEco
 	url = https://github.com/jeffreyevans/spatialeco
